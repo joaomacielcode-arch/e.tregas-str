@@ -178,6 +178,30 @@ if st.session_state.escl2:
         case 0:
             st.session_state.escl2 = False
             st.switch_page("pages/página0.py")
+        case 1:
+            st.session_state.escl2 = False
+            st.switch_page("pages/página1.py")
+        case 2:
+            st.session_state.escl2 = False
+            st.switch_page("pages/página2.py")
         case 3:
             st.session_state.escl2 = False
             st.switch_page("pages/página3.py")
+        case 4:
+            st.session_state.escl2 = False
+            st.switch_page("pages/página4.py")
+        case 5:
+            st.session_state.escl2 = False
+            st.switch_page("pages/página5.py")
+        case 6:
+            st.session_state.escl2 = False
+            st.switch_page("pages/página6.py")
+        case 7:
+            st.session_state.escl2 = False
+            st.switch_page("pages/página7.py")
+        case 8:
+            st.session_state.escl2 = False
+            st.switch_page("pages/página8.py")
+        case 9:
+            st.session_state.escl2 = False
+            st.switch_page("pages/página9.py")
